@@ -6,7 +6,7 @@
 - Frontend: `jQuery`, `Vue.js`
 - Backend: `PHP`, `Laravel`
 - Databases: `MySQL`, `ClickHouse`
-- DevOps: `Docker`, `AWS`, `Firebase`, 
+- DevOps: `Docker`, `AWS`, `Firebase`, `CI/CD`
 
 ## Projects:
 [u0life.com](https://u0life.com) - Time, Money, and Task Manager  
