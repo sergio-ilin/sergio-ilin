@@ -13,8 +13,8 @@
 [smart-clicks.ru](https://u0life.com) - Educational Application  
 
 ## Contacts
-[LinkedIn](https://www.linkedin.com/in/sergey-ilin-777064203/)
-[send@trywar.ru](mailto://send@trywar.ru/)
+[LinkedIn](https://www.linkedin.com/in/ilin-sergei/)
+[trywar.dev@gmail.com](mailto://trywar.dev@gmail.com/)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=trywar&show_icons=true&count_private=true"><img
