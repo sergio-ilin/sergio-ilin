@@ -10,7 +10,7 @@
 
 ## Projects:
 [u0life.com](https://u0life.com) - Time, Money, and Task Manager  
-[smart-clicks.ru](https://u0life.com) - Educational Application  
+[smart-clicks.ru](https://smart-clicks.ru) - Educational Application  
 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ilin-sergei/)
