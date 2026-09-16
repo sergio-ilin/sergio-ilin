@@ -14,4 +14,4 @@
 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/ilin-sergei/)
-[trywar.dev@gmail.com](mailto://trywar.dev@gmail.com/)
+[sergio.ilin.dev@gmail.com](mailto://sergio.ilin.dev@gmail.com/)
